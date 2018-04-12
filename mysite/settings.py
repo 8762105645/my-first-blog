@@ -25,7 +25,7 @@ SECRET_KEY = 'lks%na#5m%0cjti04hvlz=9%*c5hk7&_cb7&vzgc0fobb0g!ry'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'gkampli.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'gkampli.pythonanywhere.com','gkblog1.pythonanywhere.com']
 
 
 # Application definition
